@@ -7,7 +7,7 @@
 
 <a name="project-description"></a>
 
-## Monitor de Fraudes Financiero - CONDUSEF
+## Monitor de Fraudes Financieros - CONDUSEF
 Con ayuda de Selenium, se recopiló la información de los reportes registrados en el Monitor de Fraudes.
 
 Para delimitar la búsqueda y con mira en el proyecto final se buscó guardar solo los resultados según su fuente:
@@ -27,7 +27,7 @@ Funciones complementarias: *Collect_Path, Collect_Data y Create_DF*
 
 <a name="Data_Cleaning_Pipeline"></a>
 ## Data Cleaning Pipeline
-Función principal **Portal_Fraude_CleaningPipe**:
+Función principal **Portal_Fraude_CleaningPipe**
 
 Funciones complementarias: *ConcatDF, CleaningDF y FilteringDF*
 
